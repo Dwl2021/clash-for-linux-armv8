@@ -1,12 +1,12 @@
 # clash-for-linux-armv8
 
-Firstly, uncompress the tar file,
+Firstly, download from the release v1.0. Then uncompress the tar file,
 
 ```
 tar -xvf clash-for-linux-armv8.tar
 ```
 
-Then you can run clash for windows,
+You can run clash for windows,
 
 ```
 ./cfw
